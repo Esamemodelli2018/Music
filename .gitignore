@@ -1,0 +1,7 @@
+/.hg
+/.settings
+/target
+.classpath
+.hgignore
+.project
+config/production.properties
